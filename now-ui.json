@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-551066-incidents-list": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Dynamic List of Incidents",
+				"icon": "document-outline",
+				"description": "Dynamic List of Incidents",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_551066_dynamic_0"
+}
